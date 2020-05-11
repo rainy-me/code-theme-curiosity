@@ -1,0 +1,21 @@
+{
+    "name": "code-theme-curiosity",
+    "displayName": "Code Theme Curiosity",
+    "description": "a delightful code theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Curiosity",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Curiosity-color-theme.json"
+            }
+        ]
+    }
+}
